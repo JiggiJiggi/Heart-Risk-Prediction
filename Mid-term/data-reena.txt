@@ -1,0 +1,64 @@
+capture data---from survey---tepephone history
+exhuasted data---insight of the survey-individual need can be capture as He calls-her gf, doctor, liquor shop. and that's all
+
+KDD--knowledge discovery in database
+selection--with--target--
+-data cleaning
+-tranform
+data mining--selecting model-regression--
+-evalution--
+-knowledge representation-visualizatio
+
+TDSP
+Business Understanding: Defining the business objectives and requirements.
+Data Acquisition and Understanding: Collecting and understanding the data.
+Modeling: Developing models based on the data.
+Deployment: Deploying the models into production.
+
+CRISP-DM (Cross-Industry Standard Process for Data Mining)
+Business Understanding: Determining the business objectives and project requirements.
+Data Understanding: Collecting initial data and understanding its properties.
+Data Preparation: Preparing the data for modeling.
+Modeling: Creating models based on the prepared data.
+Evaluation: Evaluating the models to ensure they meet the business objectives.
+Deployment: Implementing the models in a production environment.
+Customer Acceptance: Ensuring the solution meets business needs and is accepted by the customer.
+
+KDD,TDSP,CRIPS-DM--similarity---
+All three methodologies cover the complete process from data understanding to deployment and evaluation. mention in kdd life-cycle
+They all involve iterative processes to refine and improve the models and results.
+
+Team data science project--TDSP ---CRIPS-DM-----------Big Data analysis Life Cycle 
+The Big Data analytics lifecycle can be divided into the following nine stages, as shown in Figure 3.6:
+1. Business Case Evaluation--why we do this-
+2. Data Identification----what we are looking- from where-
+3. Data Acquisition & Filtering---data acquire and cleaned--filter-
+4. Data Extraction---tranforming into certain format--ready to process-
+5. Data Validation & Cleansing---outlier-removing-covid effect-
+6. Data Aggregation & Representation--making one datashet from different sources.
+7. Data Analysis
+Some of the steps regarding data analysis are:
+- Target variable exploration
+- Numerical variables exploration
+- Finding the correlation between variables
+- Normalizing values using standard scaling, label encoding, or one-hot encoding
+- Splitting the data into test and train subsets
+- Build a machine-learning model
+- Perform a cross-validation technique
+8. Data Visualization
+9. Utilization of Analysis Results
+
+Challenges of Big Data
+1--Data Management and Storage:storing volume veriety and veracity requires advance storage solution with effective management practise
+.ensuring data quality , integrety and consistency with large data management became complex and costly.
+2-data security and privacy--as data volume increases their privacy and security should be maintained from various attack(from various unautho
+rized and breaches). as it is increasing their privacy and secuiry of such data became challenge for us.
+3- data quality and integration--taking data from different sources with good quality and integate these from different to one is also challenging
+4-advance analytics--handling these data requires much more complex algorithms with much more powerful computational system.
+
+Advantage of Big data.
+1.enhance decision making--it provide deep insight pattern and behaviour of the data. which will be more effective for any enterprises.
+2. innovation and product development.-- from large datashet it identify the market gap and accoring to it it will desing the new product
+and new innovation to fulfil the market demand.
+3.operation optimization-by analysising all the operation it will provide good model for high efficency and can predict output in real-time 
+with good efficency.
